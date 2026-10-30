@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Juliana Caedo · Cozy creative workspace</title>
+<style>
+:root{color-scheme:light;--bg:#f6f8fa;--panel:#fff;--fg:#1f2328;--muted:#656d76;--border:#d1d9e0;--link:#0969da;--code:#818b981f}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+body.dark{color-scheme:dark;--bg:#010409;--panel:#0d1117;--fg:#e6edf3;--muted:#9198a1;--border:#3d444d;--link:#79c0ff;--code:#656c7633}
+.toolbar{max-width:946px;margin:26px auto 14px;padding:0 4px;display:flex;justify-content:space-between;align-items:center;gap:16px;color:var(--muted);font-size:13px}
+.toolbar strong{color:var(--fg);font-weight:600}.controls{display:flex;gap:6px}button{font:inherit;color:var(--fg);border:1px solid var(--border);background:var(--panel);padding:5px 12px;border-radius:6px;cursor:pointer}button[aria-pressed=true]{border-color:#a089ad;background:#bda5d31c}
+.shell{max-width:946px;margin:0 auto 35px;border:1px solid var(--border);border-radius:7px;background:var(--panel);overflow:hidden}.filebar{padding:13px 24px;border-bottom:1px solid var(--border);font-size:12px;color:var(--muted);font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+.readme{padding:32px;overflow-wrap:break-word}.readme>:first-child{margin-top:0}.readme>:last-child{margin-bottom:0}p{margin:0 0 16px}img{max-width:100%;height:auto;vertical-align:middle}h3{font-size:20px;margin:24px 0 16px;font-weight:600;line-height:1.25}h4{font-size:16px;margin:24px 0 10px;font-weight:600;line-height:1.25}a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}sub{font-size:12px;color:var(--muted);bottom:-.25em;position:relative}code{padding:.2em .4em;border-radius:6px;background:var(--code);font:85% ui-monospace,SFMono-Regular,Consolas,monospace}
+.note{max-width:946px;margin:0 auto 24px;text-align:center;font-size:12px;color:var(--muted);padding:0 18px}.mobile .shell{max-width:375px}.mobile .readme{padding:16px}.mobile .filebar{padding:12px 16px}
+@media(max-width:650px){.toolbar{padding:0 14px;flex-wrap:wrap;margin-top:16px}.shell{margin:0 10px 20px}.readme{padding:16px}.filebar{padding:12px 16px}.note{text-align:left}}
+@media print{.toolbar,.note{display:none}.shell{border:0;max-width:none;margin:0}.filebar{display:none}.readme{padding:0}}
+
+.readme table{border-collapse:collapse;width:100%;margin:0 0 16px;font-size:15px}.readme th,.readme td{border:1px solid var(--border);padding:8px 13px;text-align:left}.readme th{font-weight:600;background:var(--bg)}.readme td:first-child{white-space:nowrap}.readme table tr:nth-child(even){background:var(--bg)}
+
+.readme ul{padding-left:2em;margin:0 0 16px}.readme li+li{margin-top:4px}.readme details{margin:14px 0}.readme summary{cursor:pointer;padding:4px 0}.readme summary picture{display:inline}.readme summary img{vertical-align:middle}.readme details[open]>summary{margin-bottom:16px}.readme details p{margin:12px 0 16px}
+.readme h2{font-size:24px;line-height:1.25;margin:28px 0 16px;padding-bottom:9px;border-bottom:1px solid var(--border);font-weight:600}.readme li{margin-top:6px}.readme details{margin:18px 0}.readme summary{font-weight:500;color:var(--muted)}
+</style></head><body>
+<div class="toolbar"><span><strong>yana16-afk</strong> / profile preview</span><div class="controls"><button type="button" id="light" aria-pressed="true">Light</button><button type="button" id="dark" aria-pressed="false">Dark</button><button type="button" id="details" aria-pressed="false">Expand details</button><button type="button" id="mobile" aria-pressed="false">Mobile</button></div></div>
+<main class="shell"><div class="filebar">yana16-afk / README.md</div><article class="readme"><p>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/workspace-header-mobile.png" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/workspace-header.png" />
+    <source media="(max-width: 600px)" srcset="./assets/workspace-header-mobile.gif" />
+    <img src="./assets/workspace-header.gif" width="100%" alt="Juliana Caedo · yana16-afk. A rose-and-plum creative workspace with Juliana’s portrait mapped into animated points, a gentle scanning glow and depth-like parallax. Based in Manila; making web interfaces, learning full stack and collecting good stories." />
+  </picture>
+</p>
+
+<p>
+  <a href="https://julianacaedo.netlify.app/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/portfolio-link-mobile.png" />
+      <img src="./assets/portfolio-link.png" width="100%" alt="Visit Juliana Caedo's portfolio at julianacaedo.netlify.app — full stack development, UI/UX and frontend." />
+    </picture>
+  </a>
+</p>
+<p align="center"><sub><a href="https://julianacaedo.netlify.app/">julianacaedo.netlify.app</a></sub></p>
+
+<p align="center"><sub>Click a panel to explore. Open a little, or open it all.</sub></p>
+
+<details open>
+<summary>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/panels/about-mobile.png" />
+    <img src="./assets/panels/about.png" width="96%" alt="About me — click to open or close. My reading arc and tiny joys." />
+  </picture>
+</summary>
+
+
+<p align="center"><em>somewhere between a new chapter &amp; a new idea.</em></p>
+
+<p>📚 <strong>lost in the pages</strong><br />
+fiction books · manga · manhwa · manhua · webtoons<br />
+<em>“just one more chapter.” famous last words.</em></p>
+
+<p>🎀 <strong>collector of tiny joys</strong><br />
+cute stuff, pretty details &amp; anything that makes me go “aww.”</p>
+
+<p>🌱 <strong>currently growing</strong><br />
+learning full stack, one little idea at a time.</p>
+
+<p>💬 <strong>always up for a chat</strong><br />
+good reads, UI/UX, creative web apps &amp; exchanging project feedback.</p>
+
+<p align="center"><sub>good stories &amp; good ideas are always welcome. ♡</sub></p>
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/panels/stack-mobile.png" />
+    <img src="./assets/panels/stack.png" width="96%" alt="Tech stack — click to expand. Tools organized by category." />
+  </picture>
+</summary>
+
+<p>Tools across my projects, coursework and continued learning.</p>
+<p>
+  <img src="./assets/badges/java.svg" alt="Java" />
+  <img src="./assets/badges/javascript.svg" alt="JavaScript" />
+  <img src="./assets/badges/html.svg" alt="HTML5" />
+  <img src="./assets/badges/css.svg" alt="CSS" />
+  <img src="./assets/badges/python.svg" alt="Python" />
+  <img src="./assets/badges/php.svg" alt="PHP" />
+  <img src="./assets/badges/c.svg" alt="C" />
+  <img src="./assets/badges/sql.svg" alt="SQL" />
+  <img src="./assets/badges/mysql.svg" alt="MySQL" />
+  <img src="./assets/badges/bootstrap.svg" alt="Bootstrap" />
+  <img src="./assets/badges/tailwind.svg" alt="Tailwind CSS" />
+  <img src="./assets/badges/figma.svg" alt="Figma" />
+  <img src="./assets/badges/git.svg" alt="Git" />
+  <img src="./assets/badges/github.svg" alt="GitHub" />
+  <img src="./assets/badges/vscode.svg" alt="VS Code" />
+</p>
+<p><sub>UI/UX practices: wireframing, prototyping and user flows.</sub></p>
+
+<details>
+<summary><strong>Additional tools and technologies</strong></summary>
+
+<h3>Data and computer vision</h3>
+<p>
+  <img src="./assets/badges/opencv.svg" alt="OpenCV" />
+  <img src="./assets/badges/matplotlib.svg" alt="Matplotlib" />
+  <img src="./assets/badges/numpy.svg" alt="NumPy" />
+  <img src="./assets/badges/pandas.svg" alt="Pandas" />
+  <img src="./assets/badges/scikit-learn.svg" alt="scikit-learn" />
+  <img src="./assets/badges/scipy.svg" alt="SciPy" />
+</p>
+<h3>Design and documents</h3>
+<p>
+  <img src="./assets/badges/adobe.svg" alt="Adobe" />
+  <img src="./assets/badges/acrobat.svg" alt="Adobe Acrobat Reader" />
+  <img src="./assets/badges/illustrator.svg" alt="Adobe Illustrator" />
+  <img src="./assets/badges/photoshop.svg" alt="Photoshop (basic)" />
+  <img src="./assets/badges/canva.svg" alt="Canva" />
+</p>
+<h3>Deployment and networking</h3>
+<p>
+  <img src="./assets/badges/netlify.svg" alt="Netlify" />
+  <img src="./assets/badges/vercel.svg" alt="Vercel" />
+  <img src="./assets/badges/cisco.svg" alt="Cisco" />
+</p>
+</details>
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/panels/activity-mobile.png" />
+    <img src="./assets/panels/activity.png" width="96%" alt="GitHub activity — click to expand. Public stats, streaks and repository languages." />
+  </picture>
+</summary>
+
+<p><sub>These cards reflect public data available to each service. Hidden activity may be missing; language percentages describe repository contents.</sub></p>
+<p><img src="https://github-readme-stats.shion.dev/api?username=yana16-afk&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=false&amp;count_private=false&amp;disable_animations=true&amp;title_color=a23960&amp;text_color=2a1520&amp;icon_color=a23960&amp;bg_color=fffdfc&amp;border_color=e9dfe3" width="470" alt="Public GitHub statistics for yana16-afk" /></p>
+<p><img src="https://streak-stats.demolab.com/?user=yana16-afk&amp;background=FFFDFC&amp;border=E9DFE3&amp;stroke=E9DFE3&amp;ring=A23960&amp;fire=A23960&amp;currStreakNum=2A1520&amp;sideNums=2A1520&amp;currStreakLabel=A23960&amp;sideLabels=6F5963&amp;dates=6F5963" width="470" alt="Contribution streak based on publicly visible GitHub activity" /></p>
+<p><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yana16-afk&amp;layout=compact&amp;langs_count=6&amp;title_color=a23960&amp;text_color=2a1520&amp;icon_color=a23960&amp;bg_color=fffdfc&amp;border_color=e9dfe3" width="470" alt="Language distribution across public repositories" /></p>
+
+<!-- Trophy widget is disabled: the supplied provider returned HTTP 402 during verification.
+     Restore an image only after checking that its endpoint returns a valid SVG.
+     https://github-profile-trophy.vercel.app/?username=yana16-afk&theme=flat&no-frame=true&no-bg=true&column=4
+-->
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/panels/extras-mobile.png" />
+    <img src="./assets/panels/extras.png" width="96%" alt="A little extra — click to expand. Developer quote and profile views." />
+  </picture>
+</summary>
+
+<h3>Developer quote</h3>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light&amp;border=true&amp;quoteColor=2a1520&amp;authorColor=6f5963&amp;backgroundColor=fffdfc&amp;symbolColor=a23960" width="600" alt="Random developer quote" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=yana16-afk&amp;label=Profile+views&amp;color=a23960&amp;style=flat-square" alt="Profile views for yana16-afk" /></p>
+
+</details>
+
+<p>
+  <a href="https://www.linkedin.com/in/juliana-caedo"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/connect-linkedin-mobile.png" />
+    <img src="./assets/connect-linkedin.png" width="48%" alt="Connect with Juliana Caedo on LinkedIn" />
+  </picture></a>
+  <a href="mailto:julianapcaedo@gmail.com"><picture>
+    <source media="(max-width: 600px)" srcset="./assets/connect-email-mobile.png" />
+    <img src="./assets/connect-email.png" width="48%" alt="Email Juliana Caedo at julianapcaedo@gmail.com" />
+  </picture></a>
+</p>
+<p align="center"><img src="./assets/badges/discord.svg" alt="Discord username: yana_lang" /></p>
+
+<p align="center"><sub><em>a little code, a lot of curiosity. ♡</em></sub></p>
+</article></main><p class="note">GitHub-compatible preview · Original animated workspace with restored pink panels and playful details. Click a panel to explore. Live widgets depend on their providers.</p>
+<script>
+const light=document.getElementById('light'),dark=document.getElementById('dark'),mobile=document.getElementById('mobile');
+function theme(isDark){document.body.classList.toggle('dark',isDark);dark.setAttribute('aria-pressed',String(isDark));light.setAttribute('aria-pressed',String(!isDark));}
+const sources=[...document.querySelectorAll('picture source')];
+sources.forEach(source=>source.dataset.originalMedia=source.media);
+light.addEventListener('click',()=>theme(false));dark.addEventListener('click',()=>theme(true));
+mobile.addEventListener('click',()=>{
+ const active=document.body.classList.toggle('mobile');mobile.setAttribute('aria-pressed',String(active));
+ sources.forEach(source=>{
+  const original=source.dataset.originalMedia;
+  source.media=!active?original:original.includes('max-width')?(original.includes('prefers-reduced-motion')?'(prefers-reduced-motion: reduce)':'all'):original;
+ });
+});
+
+document.getElementById('details').addEventListener('click',event=>{const open=event.currentTarget.getAttribute('aria-pressed')!=='true';document.querySelectorAll('.readme details').forEach(item=>item.open=open);event.currentTarget.setAttribute('aria-pressed',String(open));event.currentTarget.textContent=open?'Collapse details':'Expand details';});
+</script></body></html>
