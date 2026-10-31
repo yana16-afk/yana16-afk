@@ -3,8 +3,17 @@
     <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/workspace-header-mobile.png" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/workspace-header.png" />
     <source media="(max-width: 600px)" srcset="./assets/workspace-header-mobile.gif" />
-    <img src="./assets/workspace-header.gif" width="100%" alt="Juliana Caedo · yana16-afk. A rose-and-plum creative workspace cycling between Juliana’s full uncropped portrait and rotating abstract point shapes. Based in Manila; focused on UI/UX, web and Android applications." />
+    <img src="./assets/workspace-header.gif" width="100%" alt="Juliana Caedo · yana16-afk. A rose-and-plum creative workspace cycling between Juliana’s full uncropped portrait and rotating abstract point shapes, a heart and a code symbol. Based in Manila; focused on UI/UX, web and Android applications." />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://julianacaedo.netlify.app/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=2800&amp;pause=1100&amp;color=B7668A&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=58&amp;lines=Juliana+Caedo+%E2%80%94+Web+%26+Android+Development%3BUI%2FUX+%C2%B7+Frontend+%C2%B7+Full+Stack%3BDesign+with+curiosity.+Build+with+care." />
+      <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=26&amp;duration=2800&amp;pause=1100&amp;color=B7668A&amp;center=true&amp;vCenter=true&amp;width=880&amp;height=58&amp;lines=Juliana+Caedo+%E2%80%94+Web+%26+Android+Development%3BUI%2FUX+%C2%B7+Frontend+%C2%B7+Full+Stack%3BDesign+with+curiosity.+Build+with+care." width="100%" alt="Juliana Caedo — Web and Android Development. UI/UX, Frontend and Full Stack. Design with curiosity. Build with care." />
+    </picture>
+  </a>
 </p>
 
 <p>
@@ -27,10 +36,11 @@
   </picture>
 </summary>
 
-<p>Hi, I’m <strong>Juliana</strong>, a <strong>Computer Science graduate from the Polytechnic University of the Philippines, Manila</strong>, focused on <strong>web development</strong>. I bring UI/UX and implementation together—from user flows and frontend interfaces to backend logic and databases.</p>
+<p>Hi, I’m <strong>Juliana</strong>, a <strong>Computer Science graduate from the Polytechnic University of the Philippines, Manila</strong>, focused on <strong>web and Android development</strong>. I bring UI/UX and implementation together—from user flows and frontend interfaces to backend logic and databases.</p>
 
 
-<p><sub>💬 Let’s talk UI/UX, Web development, or creative collaboration.</sub></p>
+
+<p><sub>💬 Let’s talk UI/UX, web and Android development, or creative collaboration.</sub></p>
 
 </details>
 

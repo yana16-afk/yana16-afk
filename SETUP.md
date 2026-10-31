@@ -16,7 +16,7 @@ Refresh preview.html to see the current version. Its Light, Dark, Mobile and Exp
 - LinkedIn and Email use raised cards. Separate phone artwork keeps the labels readable. The header contains professional fields for location, applications, focus and Computer Science background; the off-screen/offline field is removed. Discord is the username yana_lang.
 - The previously removed reading-era About illustration remains omitted. Standalone Experience and Selected projects sections remain omitted. The user’s newer request for a professional résumé-based introduction supersedes the earlier casual-only About preference.
 
-The16-second visual-map loop alternates the full supplied subject with three rotating abstract forms and short dissolves. The source photo is not cropped; all visible hair, clothing and body content fit inside the map with safety margins. Portrait mode adds a gentle scanning glow and shallow parallax. It has separate phone artwork and still-image sources for reduced motion. The full source photo remains a local build input and is not part of the upload package. Static previews approximate GitHub spacing; remote widgets use saved offline previews where available.
+The 23-second visual-map loop alternates the full supplied subject with five rotating forms, including a heart and code symbol and short dissolves. The source photo is not cropped; all visible hair, clothing and body content fit inside the map with safety margins. Portrait mode adds a gentle scanning glow and shallow parallax. It has separate phone artwork and still-image sources for reduced motion. The full source photo remains a local build input and is not part of the upload package. Static previews approximate GitHub spacing; remote widgets use saved offline previews where available.
 
 ## Upload when ready
 
@@ -44,3 +44,5 @@ Build files under .profile-build:
 - render-preview.py: desktop, mobile and expanded PNG previews.
 
 Earlier revisions are saved under .profile-build/previous-assets. The stripped-back workspace body is archived as minimal-workspace. The workspace-stack assets and older header/project scripts are not used in this revision.
+
+The typing banner below the workspace uses Readme Typing SVG, with rose text, professional focus areas, separate phone sizing and a portfolio link. The remote service provides the animation; offline snapshots show its first line.

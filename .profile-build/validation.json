@@ -1,0 +1,87 @@
+{
+  "sections_removed": true,
+  "native_expandable_panels": 4,
+  "nested_tool_groups": 1,
+  "technology_badges": 29,
+  "discord_badge": 1,
+  "github_markdown_api_check": "passed",
+  "package_files": 49,
+  "package_bytes": 5896229,
+  "portfolio_url": "https://julianacaedo.netlify.app/",
+  "portfolio_position": "immediately after header, before first details",
+  "portfolio_http_status": 200,
+  "about_style": "professional resume-backed introduction",
+  "animation_loop_ms": 23000,
+  "whimsical_motion": [
+    "photo-driven point portrait",
+    "soft scanning sweep",
+    "shallow point parallax"
+  ],
+  "animation_layouts": {
+    "assets/workspace-header-mobile.gif": {
+      "bytes": 2663408,
+      "format": "GIF",
+      "pixels": [
+        608,
+        704
+      ],
+      "frames": 179,
+      "loop_ms": 23000,
+      "loop": 0
+    },
+    "assets/workspace-header.gif": {
+      "bytes": 2972942,
+      "format": "GIF",
+      "pixels": [
+        1200,
+        450
+      ],
+      "frames": 179,
+      "loop_ms": 23000,
+      "loop": 0
+    }
+  },
+  "local_references_valid": true,
+  "preview_matches_readme": true,
+  "portfolio_source_unchanged": true,
+  "reduced_motion_fallback": true,
+  "about_open_by_default": true,
+  "bonus_chapter_reveal": false,
+  "nested_personal_reveals": 0,
+  "about_illustrations": false,
+  "native_expandable_sections": 4,
+  "restored_style": "preserved workspace frame with animated portrait point map and restored cozy dimensional panels",
+  "selected_version": "professional-mixed-workspace",
+  "about_image_removed": true,
+  "readme_sha256": "9f9ecaca8ed6859663a62bb12b138bc06ac1e2f6adbf89088b4fe39ea6d54e3e",
+  "local_reference_occurrences": 48,
+  "local_image_assets": 48,
+  "images_with_alt_text": 44,
+  "remote_image_urls": 7,
+  "package_uncompressed_bytes": 6249666,
+  "details_total": 5,
+  "details_open_by_default": 1,
+  "profile_repository": "yana16-afk/yana16-afk",
+  "package_scope": "README.md and exactly its referenced local assets; remote images are not downloaded",
+  "local_package_validated_at": "2026-10-31T03:01:34.946024+00:00",
+  "about_visible_immediately": false,
+  "technology_labels": 29,
+  "core_tool_icons": 15,
+  "additional_technologies": 14,
+  "publishing_on_hold": true,
+  "design_reference": "https://github.com/emmi-lili/emmi-lili",
+  "portrait_point_map": true,
+  "portrait_source_packaged": false,
+  "personality_restored": true,
+  "point_sampling": "fixed seeded jitter to reduce moire",
+  "scene_modes": [
+    "portrait",
+    "trefoil",
+    "orbit",
+    "wave"
+  ],
+  "portrait_uncropped": true,
+  "off_screen_removed": true,
+  "typing_banner": true,
+  "typing_banner_palette": "B7668A"
+}

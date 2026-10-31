@@ -1,0 +1,240 @@
+[
+  {
+    "name": "badge:java",
+    "ok": true,
+    "bytes": 2922,
+    "text": []
+  },
+  {
+    "name": "badge:javascript",
+    "ok": true,
+    "bytes": 1872,
+    "text": []
+  },
+  {
+    "name": "badge:html",
+    "ok": true,
+    "bytes": 997,
+    "text": []
+  },
+  {
+    "name": "badge:css",
+    "ok": true,
+    "bytes": 2527,
+    "text": []
+  },
+  {
+    "name": "badge:python",
+    "ok": true,
+    "bytes": 2588,
+    "text": []
+  },
+  {
+    "name": "badge:php",
+    "ok": true,
+    "bytes": 2055,
+    "text": []
+  },
+  {
+    "name": "badge:c",
+    "ok": true,
+    "bytes": 1208,
+    "text": []
+  },
+  {
+    "name": "badge:sql",
+    "ok": true,
+    "bytes": 461,
+    "text": []
+  },
+  {
+    "name": "badge:mysql",
+    "ok": true,
+    "bytes": 5393,
+    "text": []
+  },
+  {
+    "name": "badge:bootstrap",
+    "ok": true,
+    "bytes": 1709,
+    "text": []
+  },
+  {
+    "name": "badge:tailwind",
+    "ok": true,
+    "bytes": 1382,
+    "text": []
+  },
+  {
+    "name": "badge:figma",
+    "ok": true,
+    "bytes": 2017,
+    "text": []
+  },
+  {
+    "name": "badge:git",
+    "ok": true,
+    "bytes": 1123,
+    "text": []
+  },
+  {
+    "name": "badge:github",
+    "ok": true,
+    "bytes": 1660,
+    "text": []
+  },
+  {
+    "name": "badge:vscode",
+    "ok": true,
+    "bytes": 473,
+    "text": []
+  },
+  {
+    "name": "badge:opencv",
+    "ok": true,
+    "bytes": 2308,
+    "text": []
+  },
+  {
+    "name": "badge:matplotlib",
+    "ok": true,
+    "bytes": 482,
+    "text": []
+  },
+  {
+    "name": "badge:numpy",
+    "ok": true,
+    "bytes": 1593,
+    "text": []
+  },
+  {
+    "name": "badge:pandas",
+    "ok": true,
+    "bytes": 1016,
+    "text": []
+  },
+  {
+    "name": "badge:scikit-learn",
+    "ok": true,
+    "bytes": 7166,
+    "text": []
+  },
+  {
+    "name": "badge:scipy",
+    "ok": true,
+    "bytes": 2349,
+    "text": []
+  },
+  {
+    "name": "badge:adobe",
+    "ok": true,
+    "bytes": 467,
+    "text": []
+  },
+  {
+    "name": "badge:acrobat",
+    "ok": true,
+    "bytes": 515,
+    "text": []
+  },
+  {
+    "name": "badge:illustrator",
+    "ok": true,
+    "bytes": 505,
+    "text": []
+  },
+  {
+    "name": "badge:photoshop",
+    "ok": true,
+    "bytes": 505,
+    "text": []
+  },
+  {
+    "name": "badge:canva",
+    "ok": true,
+    "bytes": 467,
+    "text": []
+  },
+  {
+    "name": "badge:netlify",
+    "ok": true,
+    "bytes": 1439,
+    "text": []
+  },
+  {
+    "name": "badge:vercel",
+    "ok": true,
+    "bytes": 740,
+    "text": []
+  },
+  {
+    "name": "badge:cisco",
+    "ok": true,
+    "bytes": 4021,
+    "text": []
+  },
+  {
+    "name": "badge:linkedin",
+    "ok": true,
+    "bytes": 476,
+    "text": []
+  },
+  {
+    "name": "badge:email",
+    "ok": true,
+    "bytes": 1013,
+    "text": []
+  },
+  {
+    "name": "badge:discord",
+    "ok": true,
+    "bytes": 2435,
+    "text": []
+  },
+  {
+    "name": "stats",
+    "ok": true,
+    "bytes": 7419,
+    "text": [
+      "Juliana Caedo's GitHub Stats, Rank: C",
+      "Total Stars Earned: 3, Total Commits  (last year) : 0, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0",
+      "Juliana Caedo's GitHub Stats"
+    ]
+  },
+  {
+    "name": "languages",
+    "ok": true,
+    "bytes": 5758,
+    "text": [
+      "",
+      "",
+      "Most Used Languages"
+    ]
+  },
+  {
+    "name": "streak",
+    "ok": true,
+    "bytes": 7009,
+    "text": [
+      "0",
+      "Total Contributions",
+      "Oct 30 - Present"
+    ]
+  },
+  {
+    "name": "quote",
+    "ok": true,
+    "bytes": 2091,
+    "text": []
+  },
+  {
+    "name": "visitors",
+    "ok": true,
+    "bytes": 905,
+    "text": [
+      "Profile views",
+      "Profile views",
+      "0"
+    ]
+  }
+]
