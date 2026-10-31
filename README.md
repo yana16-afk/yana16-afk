@@ -27,17 +27,10 @@
   </picture>
 </summary>
 
-<p>Hi, I’m <strong>Juliana</strong>, a <strong>Computer Science graduate from the Polytechnic University of the Philippines, Manila</strong>, focused on <strong>web and Android development</strong>. I bring UI/UX and implementation together—from user flows and frontend interfaces to backend logic and databases.</p>
+<p>Hi, I’m <strong>Juliana</strong>, a <strong>Computer Science graduate from the Polytechnic University of the Philippines, Manila</strong>, focused on <strong>web development</strong>. I bring UI/UX and implementation together—from user flows and frontend interfaces to backend logic and databases.</p>
 
-<ul>
-  <li>🏛️ <strong>DOST Project LODI:</strong> previously a <strong>Designer/Analyst Intern</strong>, working on PIMS requirements, functional specifications, workflows and user-centered interfaces.</li>
-  <li>🎨 <strong>UI/UX with implementation in mind:</strong> Figma wireframes, prototypes and user flows designed for clear, consistent interfaces.</li>
-  <li>💻 <strong>Web development:</strong> PHP and MySQL work on <strong>Planado PH</strong>, and responsive interface design and frontend collaboration on <strong>TugmaTik</strong>.</li>
-  <li>📱 <strong>Android development:</strong> <strong>E-Collect</strong>, using Java and Google Maps API, with mobile UI and user flows designed in Figma.</li>
-  <li>🤝 <strong>Design community:</strong> contributed UI components and visual materials through <strong>AWS Cloud Club–PUP</strong>, collaborating with design, marketing and development teams.</li>
-</ul>
 
-<p><sub>💬 Let’s talk UI/UX, web and Android development, or creative collaboration.</sub></p>
+<p><sub>💬 Let’s talk UI/UX, Web development, or creative collaboration.</sub></p>
 
 </details>
 
